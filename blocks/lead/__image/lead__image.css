@@ -1,9 +1,7 @@
 .lead__image {
   margin: 0 auto;
   box-sizing: border-box;
-  /* max-width: 984px; */
   object-fit: contain;
   width: 100%;
   aspect-ratio: 1.6;
-  /* height: 615px; */
 }
