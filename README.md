@@ -9,3 +9,8 @@ The project implements adaptive layout for the most common screen resolutions.
 ## Used
 
 HTML, CSS
+
+
+## Github pages
+
+https://sashkastudent.github.io/russian-travel/index.html
