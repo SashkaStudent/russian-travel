@@ -6,6 +6,10 @@
   font-size: 18px;
   line-height: 22px;
   text-decoration: underline;
+  width: fit-content;
+  transition: all 0.3s ease-out;
+
+
 }
 
 .place__link:hover {

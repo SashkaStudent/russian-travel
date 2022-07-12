@@ -3,7 +3,6 @@
   position: relative;
   max-width: 1184px;
   width: calc(100% - 96px);
-  min-height: 52px;
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
@@ -22,6 +21,5 @@
   .header {
     width: calc(100% - 32px);
     padding-top: 16px;
-    min-height: 42px;
   }
 }

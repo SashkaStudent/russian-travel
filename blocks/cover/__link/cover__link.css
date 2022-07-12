@@ -13,6 +13,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
 }
 
 .cover__link:after {
@@ -22,6 +23,8 @@
   height: 100%;
   background-color: #2a2c2f;
   opacity: 0.3;
+  transition: all 0.3s ease-out;
+
 }
 
 .cover__link:hover::after {
